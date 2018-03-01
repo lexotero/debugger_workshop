@@ -1,0 +1,14 @@
+{
+  "name": "debugger_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Otero Ortiz de Cosca",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
